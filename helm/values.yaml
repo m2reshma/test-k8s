@@ -1,6 +1,6 @@
 test:
   deploymentName: hello-deployment
-  image: asia-south1-docker.pkg.dev/reshma-sana/docker-repo/hello:1.0.4
+  image: asia-south1-docker.pkg.dev/reshma-sana/docker-repo/hello:1.0.7
   replicas: 2
   serviceName: hello-service
   servicetype: NodePort
